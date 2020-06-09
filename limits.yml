@@ -1,0 +1,4 @@
+limits:
+  maximum: 99
+  minimum: 1
+  message: 'limits config server properties'
